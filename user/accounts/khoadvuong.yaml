@@ -1,0 +1,11 @@
+email: khoadvuong@gmail.com
+fullname: 'Khoa D Vuong'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$ajUXDtV5O9TXji0T8oazY.5k7pPHgsSWPfGP1mL.bj.anqshrdPRu
